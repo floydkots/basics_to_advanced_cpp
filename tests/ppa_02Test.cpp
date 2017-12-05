@@ -2,11 +2,8 @@
 // Created by floyd on 12/5/17.
 //
 #include <gtest/gtest.h>
-#include <gmock/gmock.h>
 
 #include "../src/basics/topic_3/ppa_02.h";
-
-using testing::Eq;
 
 TEST(ppa_02Test, ThreeDigitInteger) {
     int sqdNumberResult;

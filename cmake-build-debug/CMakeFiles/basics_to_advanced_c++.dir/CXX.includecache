@@ -482,6 +482,12 @@ ppa_02.h
 
 /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/ppa_02.h
 
+/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/ppa_03.cpp
+ppa_03.h
+/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/ppa_03.h
+
+/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/ppa_03.h
+
 /home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_01Test.cpp
 gtest/gtest.h
 -
@@ -493,8 +499,12 @@ gmock/gmock.h
 /home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_02Test.cpp
 gtest/gtest.h
 -
-gmock/gmock.h
--
 ../src/basics/topic_3/ppa_02.h
 /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/ppa_02.h
+
+/home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_03Test.cpp
+gtest/gtest.h
+-
+../src/basics/topic_3/ppa_03.h
+/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/ppa_03.h
 

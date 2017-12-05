@@ -177,13 +177,63 @@ CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_02Test.cpp.o.provides: CMakeFile
 CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_02Test.cpp.o.provides.build: CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_02Test.cpp.o
 
 
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.o: CMakeFiles/basics_to_advanced_c++.dir/flags.make
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.o: ../src/basics/topic_3/ppa_03.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.o -c /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/ppa_03.cpp
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/ppa_03.cpp > CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.i
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/ppa_03.cpp -o CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.s
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.o.requires:
+
+.PHONY : CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.o.requires
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.o.provides: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.o.requires
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.o.provides.build
+.PHONY : CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.o.provides
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.o.provides.build: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.o
+
+
+CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.o: CMakeFiles/basics_to_advanced_c++.dir/flags.make
+CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.o: ../tests/ppa_03Test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.o -c /home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_03Test.cpp
+
+CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_03Test.cpp > CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.i
+
+CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_03Test.cpp -o CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.s
+
+CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.o.requires:
+
+.PHONY : CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.o.requires
+
+CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.o.provides: CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.o.requires
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.o.provides.build
+.PHONY : CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.o.provides
+
+CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.o.provides.build: CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.o
+
+
 # Object files for target basics_to_advanced_c++
 basics_to_advanced_c_______OBJECTS = \
 "CMakeFiles/basics_to_advanced_c++.dir/main.cpp.o" \
 "CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_01Test.cpp.o" \
 "CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_2/ppa_01.cpp.o" \
 "CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_02.cpp.o" \
-"CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_02Test.cpp.o"
+"CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_02Test.cpp.o" \
+"CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.o" \
+"CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.o"
 
 # External object files for target basics_to_advanced_c++
 basics_to_advanced_c_______EXTERNAL_OBJECTS =
@@ -193,12 +243,14 @@ basics_to_advanced_c++: CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_01Test.c
 basics_to_advanced_c++: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_2/ppa_01.cpp.o
 basics_to_advanced_c++: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_02.cpp.o
 basics_to_advanced_c++: CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_02Test.cpp.o
+basics_to_advanced_c++: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.o
+basics_to_advanced_c++: CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.o
 basics_to_advanced_c++: CMakeFiles/basics_to_advanced_c++.dir/build.make
 basics_to_advanced_c++: lib/googletest/googlemock/gtest/libgtestd.a
 basics_to_advanced_c++: lib/googletest/googlemock/gtest/libgtest_maind.a
 basics_to_advanced_c++: lib/googletest/googlemock/gtest/libgtestd.a
 basics_to_advanced_c++: CMakeFiles/basics_to_advanced_c++.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable basics_to_advanced_c++"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable basics_to_advanced_c++"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/basics_to_advanced_c++.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -211,6 +263,8 @@ CMakeFiles/basics_to_advanced_c++.dir/requires: CMakeFiles/basics_to_advanced_c+
 CMakeFiles/basics_to_advanced_c++.dir/requires: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_2/ppa_01.cpp.o.requires
 CMakeFiles/basics_to_advanced_c++.dir/requires: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_02.cpp.o.requires
 CMakeFiles/basics_to_advanced_c++.dir/requires: CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_02Test.cpp.o.requires
+CMakeFiles/basics_to_advanced_c++.dir/requires: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.o.requires
+CMakeFiles/basics_to_advanced_c++.dir/requires: CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.o.requires
 
 .PHONY : CMakeFiles/basics_to_advanced_c++.dir/requires
 
