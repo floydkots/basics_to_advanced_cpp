@@ -360,6 +360,12 @@
 		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_2/ppa_01.h">
 			<Option target="basics_to_advanced_c++"/>
 		</Unit>
+		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/gpa_01.cpp">
+			<Option target="basics_to_advanced_c++"/>
+		</Unit>
+		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/gpa_01.h">
+			<Option target="basics_to_advanced_c++"/>
+		</Unit>
 		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/ppa_02.cpp">
 			<Option target="basics_to_advanced_c++"/>
 		</Unit>
@@ -372,13 +378,16 @@
 		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/ppa_03.h">
 			<Option target="basics_to_advanced_c++"/>
 		</Unit>
-		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_01Test.cpp">
+		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/gpa_01_test.cpp">
 			<Option target="basics_to_advanced_c++"/>
 		</Unit>
-		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_02Test.cpp">
+		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_01_test.cpp">
 			<Option target="basics_to_advanced_c++"/>
 		</Unit>
-		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_03Test.cpp">
+		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_02_test.cpp">
+			<Option target="basics_to_advanced_c++"/>
+		</Unit>
+		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_03_test.cpp">
 			<Option target="basics_to_advanced_c++"/>
 		</Unit>
 		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/CMakeLists.txt">

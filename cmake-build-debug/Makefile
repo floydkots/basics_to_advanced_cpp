@@ -275,6 +275,33 @@ src/basics/topic_2/ppa_01.cpp.s:
 	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_2/ppa_01.cpp.s
 .PHONY : src/basics/topic_2/ppa_01.cpp.s
 
+src/basics/topic_3/gpa_01.o: src/basics/topic_3/gpa_01.cpp.o
+
+.PHONY : src/basics/topic_3/gpa_01.o
+
+# target to build an object file
+src/basics/topic_3/gpa_01.cpp.o:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/gpa_01.cpp.o
+.PHONY : src/basics/topic_3/gpa_01.cpp.o
+
+src/basics/topic_3/gpa_01.i: src/basics/topic_3/gpa_01.cpp.i
+
+.PHONY : src/basics/topic_3/gpa_01.i
+
+# target to preprocess a source file
+src/basics/topic_3/gpa_01.cpp.i:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/gpa_01.cpp.i
+.PHONY : src/basics/topic_3/gpa_01.cpp.i
+
+src/basics/topic_3/gpa_01.s: src/basics/topic_3/gpa_01.cpp.s
+
+.PHONY : src/basics/topic_3/gpa_01.s
+
+# target to generate assembly for a file
+src/basics/topic_3/gpa_01.cpp.s:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/gpa_01.cpp.s
+.PHONY : src/basics/topic_3/gpa_01.cpp.s
+
 src/basics/topic_3/ppa_02.o: src/basics/topic_3/ppa_02.cpp.o
 
 .PHONY : src/basics/topic_3/ppa_02.o
@@ -329,86 +356,113 @@ src/basics/topic_3/ppa_03.cpp.s:
 	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.s
 .PHONY : src/basics/topic_3/ppa_03.cpp.s
 
-tests/ppa_01Test.o: tests/ppa_01Test.cpp.o
+tests/gpa_01_test.o: tests/gpa_01_test.cpp.o
 
-.PHONY : tests/ppa_01Test.o
-
-# target to build an object file
-tests/ppa_01Test.cpp.o:
-	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_01Test.cpp.o
-.PHONY : tests/ppa_01Test.cpp.o
-
-tests/ppa_01Test.i: tests/ppa_01Test.cpp.i
-
-.PHONY : tests/ppa_01Test.i
-
-# target to preprocess a source file
-tests/ppa_01Test.cpp.i:
-	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_01Test.cpp.i
-.PHONY : tests/ppa_01Test.cpp.i
-
-tests/ppa_01Test.s: tests/ppa_01Test.cpp.s
-
-.PHONY : tests/ppa_01Test.s
-
-# target to generate assembly for a file
-tests/ppa_01Test.cpp.s:
-	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_01Test.cpp.s
-.PHONY : tests/ppa_01Test.cpp.s
-
-tests/ppa_02Test.o: tests/ppa_02Test.cpp.o
-
-.PHONY : tests/ppa_02Test.o
+.PHONY : tests/gpa_01_test.o
 
 # target to build an object file
-tests/ppa_02Test.cpp.o:
-	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_02Test.cpp.o
-.PHONY : tests/ppa_02Test.cpp.o
+tests/gpa_01_test.cpp.o:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/gpa_01_test.cpp.o
+.PHONY : tests/gpa_01_test.cpp.o
 
-tests/ppa_02Test.i: tests/ppa_02Test.cpp.i
+tests/gpa_01_test.i: tests/gpa_01_test.cpp.i
 
-.PHONY : tests/ppa_02Test.i
+.PHONY : tests/gpa_01_test.i
 
 # target to preprocess a source file
-tests/ppa_02Test.cpp.i:
-	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_02Test.cpp.i
-.PHONY : tests/ppa_02Test.cpp.i
+tests/gpa_01_test.cpp.i:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/gpa_01_test.cpp.i
+.PHONY : tests/gpa_01_test.cpp.i
 
-tests/ppa_02Test.s: tests/ppa_02Test.cpp.s
+tests/gpa_01_test.s: tests/gpa_01_test.cpp.s
 
-.PHONY : tests/ppa_02Test.s
+.PHONY : tests/gpa_01_test.s
 
 # target to generate assembly for a file
-tests/ppa_02Test.cpp.s:
-	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_02Test.cpp.s
-.PHONY : tests/ppa_02Test.cpp.s
+tests/gpa_01_test.cpp.s:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/gpa_01_test.cpp.s
+.PHONY : tests/gpa_01_test.cpp.s
 
-tests/ppa_03Test.o: tests/ppa_03Test.cpp.o
+tests/ppa_01_test.o: tests/ppa_01_test.cpp.o
 
-.PHONY : tests/ppa_03Test.o
+.PHONY : tests/ppa_01_test.o
 
 # target to build an object file
-tests/ppa_03Test.cpp.o:
-	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.o
-.PHONY : tests/ppa_03Test.cpp.o
+tests/ppa_01_test.cpp.o:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_01_test.cpp.o
+.PHONY : tests/ppa_01_test.cpp.o
 
-tests/ppa_03Test.i: tests/ppa_03Test.cpp.i
+tests/ppa_01_test.i: tests/ppa_01_test.cpp.i
 
-.PHONY : tests/ppa_03Test.i
+.PHONY : tests/ppa_01_test.i
 
 # target to preprocess a source file
-tests/ppa_03Test.cpp.i:
-	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.i
-.PHONY : tests/ppa_03Test.cpp.i
+tests/ppa_01_test.cpp.i:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_01_test.cpp.i
+.PHONY : tests/ppa_01_test.cpp.i
 
-tests/ppa_03Test.s: tests/ppa_03Test.cpp.s
+tests/ppa_01_test.s: tests/ppa_01_test.cpp.s
 
-.PHONY : tests/ppa_03Test.s
+.PHONY : tests/ppa_01_test.s
 
 # target to generate assembly for a file
-tests/ppa_03Test.cpp.s:
-	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.s
-.PHONY : tests/ppa_03Test.cpp.s
+tests/ppa_01_test.cpp.s:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_01_test.cpp.s
+.PHONY : tests/ppa_01_test.cpp.s
+
+tests/ppa_02_test.o: tests/ppa_02_test.cpp.o
+
+.PHONY : tests/ppa_02_test.o
+
+# target to build an object file
+tests/ppa_02_test.cpp.o:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_02_test.cpp.o
+.PHONY : tests/ppa_02_test.cpp.o
+
+tests/ppa_02_test.i: tests/ppa_02_test.cpp.i
+
+.PHONY : tests/ppa_02_test.i
+
+# target to preprocess a source file
+tests/ppa_02_test.cpp.i:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_02_test.cpp.i
+.PHONY : tests/ppa_02_test.cpp.i
+
+tests/ppa_02_test.s: tests/ppa_02_test.cpp.s
+
+.PHONY : tests/ppa_02_test.s
+
+# target to generate assembly for a file
+tests/ppa_02_test.cpp.s:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_02_test.cpp.s
+.PHONY : tests/ppa_02_test.cpp.s
+
+tests/ppa_03_test.o: tests/ppa_03_test.cpp.o
+
+.PHONY : tests/ppa_03_test.o
+
+# target to build an object file
+tests/ppa_03_test.cpp.o:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03_test.cpp.o
+.PHONY : tests/ppa_03_test.cpp.o
+
+tests/ppa_03_test.i: tests/ppa_03_test.cpp.i
+
+.PHONY : tests/ppa_03_test.i
+
+# target to preprocess a source file
+tests/ppa_03_test.cpp.i:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03_test.cpp.i
+.PHONY : tests/ppa_03_test.cpp.i
+
+tests/ppa_03_test.s: tests/ppa_03_test.cpp.s
+
+.PHONY : tests/ppa_03_test.s
+
+# target to generate assembly for a file
+tests/ppa_03_test.cpp.s:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03_test.cpp.s
+.PHONY : tests/ppa_03_test.cpp.s
 
 # Help Target
 help:
@@ -433,21 +487,27 @@ help:
 	@echo "... src/basics/topic_2/ppa_01.o"
 	@echo "... src/basics/topic_2/ppa_01.i"
 	@echo "... src/basics/topic_2/ppa_01.s"
+	@echo "... src/basics/topic_3/gpa_01.o"
+	@echo "... src/basics/topic_3/gpa_01.i"
+	@echo "... src/basics/topic_3/gpa_01.s"
 	@echo "... src/basics/topic_3/ppa_02.o"
 	@echo "... src/basics/topic_3/ppa_02.i"
 	@echo "... src/basics/topic_3/ppa_02.s"
 	@echo "... src/basics/topic_3/ppa_03.o"
 	@echo "... src/basics/topic_3/ppa_03.i"
 	@echo "... src/basics/topic_3/ppa_03.s"
-	@echo "... tests/ppa_01Test.o"
-	@echo "... tests/ppa_01Test.i"
-	@echo "... tests/ppa_01Test.s"
-	@echo "... tests/ppa_02Test.o"
-	@echo "... tests/ppa_02Test.i"
-	@echo "... tests/ppa_02Test.s"
-	@echo "... tests/ppa_03Test.o"
-	@echo "... tests/ppa_03Test.i"
-	@echo "... tests/ppa_03Test.s"
+	@echo "... tests/gpa_01_test.o"
+	@echo "... tests/gpa_01_test.i"
+	@echo "... tests/gpa_01_test.s"
+	@echo "... tests/ppa_01_test.o"
+	@echo "... tests/ppa_01_test.i"
+	@echo "... tests/ppa_01_test.s"
+	@echo "... tests/ppa_02_test.o"
+	@echo "... tests/ppa_02_test.i"
+	@echo "... tests/ppa_02_test.s"
+	@echo "... tests/ppa_03_test.o"
+	@echo "... tests/ppa_03_test.i"
+	@echo "... tests/ppa_03_test.s"
 .PHONY : help
 
 

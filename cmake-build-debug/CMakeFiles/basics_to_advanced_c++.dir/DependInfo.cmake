@@ -6,11 +6,13 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/main.cpp" "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles/basics_to_advanced_c++.dir/main.cpp.o"
   "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_2/ppa_01.cpp" "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_2/ppa_01.cpp.o"
+  "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/gpa_01.cpp" "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/gpa_01.cpp.o"
   "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/ppa_02.cpp" "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_02.cpp.o"
   "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/ppa_03.cpp" "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.o"
-  "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_01Test.cpp" "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_01Test.cpp.o"
-  "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_02Test.cpp" "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_02Test.cpp.o"
-  "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_03Test.cpp" "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.o"
+  "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/gpa_01_test.cpp" "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles/basics_to_advanced_c++.dir/tests/gpa_01_test.cpp.o"
+  "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_01_test.cpp" "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_01_test.cpp.o"
+  "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_02_test.cpp" "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_02_test.cpp.o"
+  "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_03_test.cpp" "/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03_test.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

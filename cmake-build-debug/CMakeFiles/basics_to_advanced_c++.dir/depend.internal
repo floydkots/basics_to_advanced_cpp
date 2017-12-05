@@ -45,13 +45,41 @@ CMakeFiles/basics_to_advanced_c++.dir/main.cpp.o
 CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_2/ppa_01.cpp.o
  /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_2/ppa_01.cpp
  /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_2/ppa_01.h
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/gpa_01.cpp.o
+ /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/gpa_01.cpp
+ /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/gpa_01.h
 CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_02.cpp.o
  /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/ppa_02.cpp
  /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/ppa_02.h
 CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.o
  /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/ppa_03.cpp
  /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/ppa_03.h
-CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_01Test.cpp.o
+CMakeFiles/basics_to_advanced_c++.dir/tests/gpa_01_test.cpp.o
+ ../lib/googletest/googletest/include/gtest/gtest-death-test.h
+ ../lib/googletest/googletest/include/gtest/gtest-message.h
+ ../lib/googletest/googletest/include/gtest/gtest-param-test.h
+ ../lib/googletest/googletest/include/gtest/gtest-printers.h
+ ../lib/googletest/googletest/include/gtest/gtest-test-part.h
+ ../lib/googletest/googletest/include/gtest/gtest-typed-test.h
+ ../lib/googletest/googletest/include/gtest/gtest.h
+ ../lib/googletest/googletest/include/gtest/gtest_pred_impl.h
+ ../lib/googletest/googletest/include/gtest/gtest_prod.h
+ ../lib/googletest/googletest/include/gtest/internal/custom/gtest-port.h
+ ../lib/googletest/googletest/include/gtest/internal/custom/gtest-printers.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-death-test-internal.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-filepath.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-internal.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-linked_ptr.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-param-util-generated.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-param-util.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-port-arch.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-port.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
+ ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
+ /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/gpa_01.h
+ /home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/gpa_01_test.cpp
+CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_01_test.cpp.o
  ../lib/googletest/googlemock/include/gmock/gmock-actions.h
  ../lib/googletest/googlemock/include/gmock/gmock-cardinalities.h
  ../lib/googletest/googlemock/include/gmock/gmock-generated-actions.h
@@ -92,8 +120,8 @@ CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_01Test.cpp.o
  ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
  /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_2/ppa_01.h
- /home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_01Test.cpp
-CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_02Test.cpp.o
+ /home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_01_test.cpp
+CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_02_test.cpp.o
  ../lib/googletest/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest/googletest/include/gtest/gtest-message.h
  ../lib/googletest/googletest/include/gtest/gtest-param-test.h
@@ -117,8 +145,8 @@ CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_02Test.cpp.o
  ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
  /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/ppa_02.h
- /home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_02Test.cpp
-CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.o
+ /home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_02_test.cpp
+CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03_test.cpp.o
  ../lib/googletest/googletest/include/gtest/gtest-death-test.h
  ../lib/googletest/googletest/include/gtest/gtest-message.h
  ../lib/googletest/googletest/include/gtest/gtest-param-test.h
@@ -142,4 +170,4 @@ CMakeFiles/basics_to_advanced_c++.dir/tests/ppa_03Test.cpp.o
  ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
  ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
  /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/ppa_03.h
- /home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_03Test.cpp
+ /home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/ppa_03_test.cpp

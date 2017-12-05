@@ -5,19 +5,19 @@
 
 #include "../src/basics/topic_3/ppa_02.h";
 
-TEST(ppa_02Test, ThreeDigitInteger) {
+TEST(ppa_02_test, ThreeDigitInteger) {
     int sqdNumberResult;
     ppa_02::squaredSum(234, sqdNumberResult);
     ASSERT_EQ(29, sqdNumberResult);
 }
 
-TEST(ppa_02Test, OneDigitInt) {
+TEST(ppa_02_test, OneDigitInt) {
     int sqdNumberResult;
     ppa_02::squaredSum(9, sqdNumberResult);
     ASSERT_EQ(81, sqdNumberResult);
 }
 
-TEST(ppa_02Test, OneDigitIntWhichIsZero) {
+TEST(ppa_02_test, OneDigitIntWhichIsZero) {
     int sqdNumberResult;
     ppa_02::squaredSum(0, sqdNumberResult);
     ASSERT_EQ(0, sqdNumberResult);
