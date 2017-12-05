@@ -4,7 +4,7 @@
 #include <gtest/gtest.h>
 #include <gmock/gmock.h>
 
-#include "../src/basics/topic_2/ppa_01.h"
+#include "../../src/basics/topic_2/ppa_01.h"
 
 using testing::Eq;
 

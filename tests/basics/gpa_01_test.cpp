@@ -4,7 +4,7 @@
 
 #include <gtest/gtest.h>
 
-#include "../src/basics/topic_3/gpa_01.h";
+#include "../../src/basics/topic_3/gpa_01.h";
 
 namespace {
     class gpa_01_test : public testing::Test {

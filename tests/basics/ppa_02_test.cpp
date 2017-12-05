@@ -3,7 +3,7 @@
 //
 #include <gtest/gtest.h>
 
-#include "../src/basics/topic_3/ppa_02.h";
+#include "../../src/basics/topic_3/ppa_02.h";
 
 TEST(ppa_02_test, ThreeDigitInteger) {
     int sqdNumberResult;

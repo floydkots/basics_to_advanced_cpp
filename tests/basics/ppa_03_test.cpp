@@ -3,7 +3,7 @@
 //
 #include <gtest/gtest.h>
 
-#include "../src/basics/topic_3/ppa_03.h";
+#include "../../src/basics/topic_3/ppa_03.h";
 
 namespace {
     class ppa_03_test : public testing::Test {
