@@ -469,6 +469,10 @@ gtest/gtest.h
 -
 gmock/gmock.h
 -
+src/basics/topic_4/pbf.h
+/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbf.h
+math.h
+-
 
 /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_2/ppa_01.cpp
 ppa_01.h
@@ -494,11 +498,51 @@ ppa_03.h
 
 /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/ppa_03.h
 
+/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/bpp.cpp
+bpp.h
+/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/bpp.h
+
+/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/bpp.h
+iostream
+-
+
+/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbce.cpp
+pbce.h
+/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbce.h
+
+/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbce.h
+iostream
+-
+
+/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbf.cpp
+pbf.h
+/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbf.h
+
+/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbf.h
+iostream
+-
+
+/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbis.cpp
+pbis.h
+/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbis.h
+
+/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbis.h
+iostream
+-
+cmath
+-
+
 /home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/basics/gpa_01_test.cpp
 gtest/gtest.h
 -
 ../../src/basics/topic_3/gpa_01.h
 /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/gpa_01.h
+
+/home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/basics/pbf_test.cpp
+gtest/gtest.h
+-
+../../src/basics/topic_4/pbf.h
+/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbf.h
 
 /home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/basics/ppa_01_test.cpp
 gtest/gtest.h

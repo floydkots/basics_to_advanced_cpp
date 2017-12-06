@@ -378,7 +378,34 @@
 		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_3/ppa_03.h">
 			<Option target="basics_to_advanced_c++"/>
 		</Unit>
+		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/bpp.cpp">
+			<Option target="basics_to_advanced_c++"/>
+		</Unit>
+		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/bpp.h">
+			<Option target="basics_to_advanced_c++"/>
+		</Unit>
+		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbce.cpp">
+			<Option target="basics_to_advanced_c++"/>
+		</Unit>
+		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbce.h">
+			<Option target="basics_to_advanced_c++"/>
+		</Unit>
+		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbf.cpp">
+			<Option target="basics_to_advanced_c++"/>
+		</Unit>
+		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbf.h">
+			<Option target="basics_to_advanced_c++"/>
+		</Unit>
+		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbis.cpp">
+			<Option target="basics_to_advanced_c++"/>
+		</Unit>
+		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbis.h">
+			<Option target="basics_to_advanced_c++"/>
+		</Unit>
 		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/basics/gpa_01_test.cpp">
+			<Option target="basics_to_advanced_c++"/>
+		</Unit>
+		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/basics/pbf_test.cpp">
 			<Option target="basics_to_advanced_c++"/>
 		</Unit>
 		<Unit filename="/home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/basics/ppa_01_test.cpp">

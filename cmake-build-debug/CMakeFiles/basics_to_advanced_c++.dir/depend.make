@@ -41,6 +41,7 @@ CMakeFiles/basics_to_advanced_c++.dir/main.cpp.o: ../lib/googletest/googletest/i
 CMakeFiles/basics_to_advanced_c++.dir/main.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
 CMakeFiles/basics_to_advanced_c++.dir/main.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
 CMakeFiles/basics_to_advanced_c++.dir/main.cpp.o: ../main.cpp
+CMakeFiles/basics_to_advanced_c++.dir/main.cpp.o: ../src/basics/topic_4/pbf.h
 
 CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_2/ppa_01.cpp.o: ../src/basics/topic_2/ppa_01.cpp
 CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_2/ppa_01.cpp.o: ../src/basics/topic_2/ppa_01.h
@@ -53,6 +54,18 @@ CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_02.cpp.o: ../src/ba
 
 CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.o: ../src/basics/topic_3/ppa_03.cpp
 CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.o: ../src/basics/topic_3/ppa_03.h
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.o: ../src/basics/topic_4/bpp.cpp
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.o: ../src/basics/topic_4/bpp.h
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.o: ../src/basics/topic_4/pbce.cpp
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.o: ../src/basics/topic_4/pbce.h
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.o: ../src/basics/topic_4/pbf.cpp
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.o: ../src/basics/topic_4/pbf.h
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.o: ../src/basics/topic_4/pbis.cpp
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.o: ../src/basics/topic_4/pbis.h
 
 CMakeFiles/basics_to_advanced_c++.dir/tests/basics/gpa_01_test.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-death-test.h
 CMakeFiles/basics_to_advanced_c++.dir/tests/basics/gpa_01_test.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-message.h
@@ -78,6 +91,31 @@ CMakeFiles/basics_to_advanced_c++.dir/tests/basics/gpa_01_test.cpp.o: ../lib/goo
 CMakeFiles/basics_to_advanced_c++.dir/tests/basics/gpa_01_test.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
 CMakeFiles/basics_to_advanced_c++.dir/tests/basics/gpa_01_test.cpp.o: ../src/basics/topic_3/gpa_01.h
 CMakeFiles/basics_to_advanced_c++.dir/tests/basics/gpa_01_test.cpp.o: ../tests/basics/gpa_01_test.cpp
+
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-death-test.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-message.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-param-test.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-printers.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-test-part.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/gtest-typed-test.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/gtest.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/gtest_pred_impl.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/gtest_prod.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/internal/custom/gtest-port.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/internal/custom/gtest-printers.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-death-test-internal.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-filepath.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-internal.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-linked_ptr.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-param-util-generated.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-param-util.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-port-arch.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-port.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-string.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-tuple.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../lib/googletest/googletest/include/gtest/internal/gtest-type-util.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../src/basics/topic_4/pbf.h
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../tests/basics/pbf_test.cpp
 
 CMakeFiles/basics_to_advanced_c++.dir/tests/basics/ppa_01_test.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-actions.h
 CMakeFiles/basics_to_advanced_c++.dir/tests/basics/ppa_01_test.cpp.o: ../lib/googletest/googlemock/include/gmock/gmock-cardinalities.h

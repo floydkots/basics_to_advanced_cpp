@@ -273,6 +273,126 @@ CMakeFiles/basics_to_advanced_c++.dir/tests/basics/gpa_01_test.cpp.o.provides: C
 CMakeFiles/basics_to_advanced_c++.dir/tests/basics/gpa_01_test.cpp.o.provides.build: CMakeFiles/basics_to_advanced_c++.dir/tests/basics/gpa_01_test.cpp.o
 
 
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.o: CMakeFiles/basics_to_advanced_c++.dir/flags.make
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.o: ../src/basics/topic_4/bpp.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.o -c /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/bpp.cpp
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/bpp.cpp > CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.i
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/bpp.cpp -o CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.s
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.o.requires:
+
+.PHONY : CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.o.requires
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.o.provides: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.o.requires
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.o.provides.build
+.PHONY : CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.o.provides
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.o.provides.build: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.o
+
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.o: CMakeFiles/basics_to_advanced_c++.dir/flags.make
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.o: ../src/basics/topic_4/pbce.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.o -c /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbce.cpp
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbce.cpp > CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.i
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbce.cpp -o CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.s
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.o.requires:
+
+.PHONY : CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.o.requires
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.o.provides: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.o.requires
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.o.provides.build
+.PHONY : CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.o.provides
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.o.provides.build: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.o
+
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.o: CMakeFiles/basics_to_advanced_c++.dir/flags.make
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.o: ../src/basics/topic_4/pbis.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.o -c /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbis.cpp
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbis.cpp > CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.i
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbis.cpp -o CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.s
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.o.requires:
+
+.PHONY : CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.o.requires
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.o.provides: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.o.requires
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.o.provides.build
+.PHONY : CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.o.provides
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.o.provides.build: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.o
+
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.o: CMakeFiles/basics_to_advanced_c++.dir/flags.make
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.o: ../src/basics/topic_4/pbf.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.o -c /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbf.cpp
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbf.cpp > CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.i
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/floyd/Projects/edx/c++/basics_to_advanced_c++/src/basics/topic_4/pbf.cpp -o CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.s
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.o.requires:
+
+.PHONY : CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.o.requires
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.o.provides: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.o.requires
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.o.provides.build
+.PHONY : CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.o.provides
+
+CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.o.provides.build: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.o
+
+
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: CMakeFiles/basics_to_advanced_c++.dir/flags.make
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o: ../tests/basics/pbf_test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o -c /home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/basics/pbf_test.cpp
+
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/basics/pbf_test.cpp > CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.i
+
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/floyd/Projects/edx/c++/basics_to_advanced_c++/tests/basics/pbf_test.cpp -o CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.s
+
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o.requires:
+
+.PHONY : CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o.requires
+
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o.provides: CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o.requires
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o.provides.build
+.PHONY : CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o.provides
+
+CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o.provides.build: CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o
+
+
 # Object files for target basics_to_advanced_c++
 basics_to_advanced_c_______OBJECTS = \
 "CMakeFiles/basics_to_advanced_c++.dir/main.cpp.o" \
@@ -283,7 +403,12 @@ basics_to_advanced_c_______OBJECTS = \
 "CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.o" \
 "CMakeFiles/basics_to_advanced_c++.dir/tests/basics/ppa_03_test.cpp.o" \
 "CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/gpa_01.cpp.o" \
-"CMakeFiles/basics_to_advanced_c++.dir/tests/basics/gpa_01_test.cpp.o"
+"CMakeFiles/basics_to_advanced_c++.dir/tests/basics/gpa_01_test.cpp.o" \
+"CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.o" \
+"CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.o" \
+"CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.o" \
+"CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.o" \
+"CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o"
 
 # External object files for target basics_to_advanced_c++
 basics_to_advanced_c_______EXTERNAL_OBJECTS =
@@ -297,12 +422,17 @@ basics_to_advanced_c++: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3
 basics_to_advanced_c++: CMakeFiles/basics_to_advanced_c++.dir/tests/basics/ppa_03_test.cpp.o
 basics_to_advanced_c++: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/gpa_01.cpp.o
 basics_to_advanced_c++: CMakeFiles/basics_to_advanced_c++.dir/tests/basics/gpa_01_test.cpp.o
+basics_to_advanced_c++: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.o
+basics_to_advanced_c++: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.o
+basics_to_advanced_c++: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.o
+basics_to_advanced_c++: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.o
+basics_to_advanced_c++: CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o
 basics_to_advanced_c++: CMakeFiles/basics_to_advanced_c++.dir/build.make
 basics_to_advanced_c++: lib/googletest/googlemock/gtest/libgtestd.a
 basics_to_advanced_c++: lib/googletest/googlemock/gtest/libgtest_maind.a
 basics_to_advanced_c++: lib/googletest/googlemock/gtest/libgtestd.a
 basics_to_advanced_c++: CMakeFiles/basics_to_advanced_c++.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable basics_to_advanced_c++"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/floyd/Projects/edx/c++/basics_to_advanced_c++/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable basics_to_advanced_c++"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/basics_to_advanced_c++.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -319,6 +449,11 @@ CMakeFiles/basics_to_advanced_c++.dir/requires: CMakeFiles/basics_to_advanced_c+
 CMakeFiles/basics_to_advanced_c++.dir/requires: CMakeFiles/basics_to_advanced_c++.dir/tests/basics/ppa_03_test.cpp.o.requires
 CMakeFiles/basics_to_advanced_c++.dir/requires: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/gpa_01.cpp.o.requires
 CMakeFiles/basics_to_advanced_c++.dir/requires: CMakeFiles/basics_to_advanced_c++.dir/tests/basics/gpa_01_test.cpp.o.requires
+CMakeFiles/basics_to_advanced_c++.dir/requires: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.o.requires
+CMakeFiles/basics_to_advanced_c++.dir/requires: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.o.requires
+CMakeFiles/basics_to_advanced_c++.dir/requires: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.o.requires
+CMakeFiles/basics_to_advanced_c++.dir/requires: CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.o.requires
+CMakeFiles/basics_to_advanced_c++.dir/requires: CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o.requires
 
 .PHONY : CMakeFiles/basics_to_advanced_c++.dir/requires
 

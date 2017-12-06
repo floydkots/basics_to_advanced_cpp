@@ -356,6 +356,114 @@ src/basics/topic_3/ppa_03.cpp.s:
 	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_3/ppa_03.cpp.s
 .PHONY : src/basics/topic_3/ppa_03.cpp.s
 
+src/basics/topic_4/bpp.o: src/basics/topic_4/bpp.cpp.o
+
+.PHONY : src/basics/topic_4/bpp.o
+
+# target to build an object file
+src/basics/topic_4/bpp.cpp.o:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.o
+.PHONY : src/basics/topic_4/bpp.cpp.o
+
+src/basics/topic_4/bpp.i: src/basics/topic_4/bpp.cpp.i
+
+.PHONY : src/basics/topic_4/bpp.i
+
+# target to preprocess a source file
+src/basics/topic_4/bpp.cpp.i:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.i
+.PHONY : src/basics/topic_4/bpp.cpp.i
+
+src/basics/topic_4/bpp.s: src/basics/topic_4/bpp.cpp.s
+
+.PHONY : src/basics/topic_4/bpp.s
+
+# target to generate assembly for a file
+src/basics/topic_4/bpp.cpp.s:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/bpp.cpp.s
+.PHONY : src/basics/topic_4/bpp.cpp.s
+
+src/basics/topic_4/pbce.o: src/basics/topic_4/pbce.cpp.o
+
+.PHONY : src/basics/topic_4/pbce.o
+
+# target to build an object file
+src/basics/topic_4/pbce.cpp.o:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.o
+.PHONY : src/basics/topic_4/pbce.cpp.o
+
+src/basics/topic_4/pbce.i: src/basics/topic_4/pbce.cpp.i
+
+.PHONY : src/basics/topic_4/pbce.i
+
+# target to preprocess a source file
+src/basics/topic_4/pbce.cpp.i:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.i
+.PHONY : src/basics/topic_4/pbce.cpp.i
+
+src/basics/topic_4/pbce.s: src/basics/topic_4/pbce.cpp.s
+
+.PHONY : src/basics/topic_4/pbce.s
+
+# target to generate assembly for a file
+src/basics/topic_4/pbce.cpp.s:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbce.cpp.s
+.PHONY : src/basics/topic_4/pbce.cpp.s
+
+src/basics/topic_4/pbf.o: src/basics/topic_4/pbf.cpp.o
+
+.PHONY : src/basics/topic_4/pbf.o
+
+# target to build an object file
+src/basics/topic_4/pbf.cpp.o:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.o
+.PHONY : src/basics/topic_4/pbf.cpp.o
+
+src/basics/topic_4/pbf.i: src/basics/topic_4/pbf.cpp.i
+
+.PHONY : src/basics/topic_4/pbf.i
+
+# target to preprocess a source file
+src/basics/topic_4/pbf.cpp.i:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.i
+.PHONY : src/basics/topic_4/pbf.cpp.i
+
+src/basics/topic_4/pbf.s: src/basics/topic_4/pbf.cpp.s
+
+.PHONY : src/basics/topic_4/pbf.s
+
+# target to generate assembly for a file
+src/basics/topic_4/pbf.cpp.s:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbf.cpp.s
+.PHONY : src/basics/topic_4/pbf.cpp.s
+
+src/basics/topic_4/pbis.o: src/basics/topic_4/pbis.cpp.o
+
+.PHONY : src/basics/topic_4/pbis.o
+
+# target to build an object file
+src/basics/topic_4/pbis.cpp.o:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.o
+.PHONY : src/basics/topic_4/pbis.cpp.o
+
+src/basics/topic_4/pbis.i: src/basics/topic_4/pbis.cpp.i
+
+.PHONY : src/basics/topic_4/pbis.i
+
+# target to preprocess a source file
+src/basics/topic_4/pbis.cpp.i:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.i
+.PHONY : src/basics/topic_4/pbis.cpp.i
+
+src/basics/topic_4/pbis.s: src/basics/topic_4/pbis.cpp.s
+
+.PHONY : src/basics/topic_4/pbis.s
+
+# target to generate assembly for a file
+src/basics/topic_4/pbis.cpp.s:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/src/basics/topic_4/pbis.cpp.s
+.PHONY : src/basics/topic_4/pbis.cpp.s
+
 tests/basics/gpa_01_test.o: tests/basics/gpa_01_test.cpp.o
 
 .PHONY : tests/basics/gpa_01_test.o
@@ -382,6 +490,33 @@ tests/basics/gpa_01_test.s: tests/basics/gpa_01_test.cpp.s
 tests/basics/gpa_01_test.cpp.s:
 	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/basics/gpa_01_test.cpp.s
 .PHONY : tests/basics/gpa_01_test.cpp.s
+
+tests/basics/pbf_test.o: tests/basics/pbf_test.cpp.o
+
+.PHONY : tests/basics/pbf_test.o
+
+# target to build an object file
+tests/basics/pbf_test.cpp.o:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.o
+.PHONY : tests/basics/pbf_test.cpp.o
+
+tests/basics/pbf_test.i: tests/basics/pbf_test.cpp.i
+
+.PHONY : tests/basics/pbf_test.i
+
+# target to preprocess a source file
+tests/basics/pbf_test.cpp.i:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.i
+.PHONY : tests/basics/pbf_test.cpp.i
+
+tests/basics/pbf_test.s: tests/basics/pbf_test.cpp.s
+
+.PHONY : tests/basics/pbf_test.s
+
+# target to generate assembly for a file
+tests/basics/pbf_test.cpp.s:
+	$(MAKE) -f CMakeFiles/basics_to_advanced_c++.dir/build.make CMakeFiles/basics_to_advanced_c++.dir/tests/basics/pbf_test.cpp.s
+.PHONY : tests/basics/pbf_test.cpp.s
 
 tests/basics/ppa_01_test.o: tests/basics/ppa_01_test.cpp.o
 
@@ -496,9 +631,24 @@ help:
 	@echo "... src/basics/topic_3/ppa_03.o"
 	@echo "... src/basics/topic_3/ppa_03.i"
 	@echo "... src/basics/topic_3/ppa_03.s"
+	@echo "... src/basics/topic_4/bpp.o"
+	@echo "... src/basics/topic_4/bpp.i"
+	@echo "... src/basics/topic_4/bpp.s"
+	@echo "... src/basics/topic_4/pbce.o"
+	@echo "... src/basics/topic_4/pbce.i"
+	@echo "... src/basics/topic_4/pbce.s"
+	@echo "... src/basics/topic_4/pbf.o"
+	@echo "... src/basics/topic_4/pbf.i"
+	@echo "... src/basics/topic_4/pbf.s"
+	@echo "... src/basics/topic_4/pbis.o"
+	@echo "... src/basics/topic_4/pbis.i"
+	@echo "... src/basics/topic_4/pbis.s"
 	@echo "... tests/basics/gpa_01_test.o"
 	@echo "... tests/basics/gpa_01_test.i"
 	@echo "... tests/basics/gpa_01_test.s"
+	@echo "... tests/basics/pbf_test.o"
+	@echo "... tests/basics/pbf_test.i"
+	@echo "... tests/basics/pbf_test.s"
 	@echo "... tests/basics/ppa_01_test.o"
 	@echo "... tests/basics/ppa_01_test.i"
 	@echo "... tests/basics/ppa_01_test.s"
